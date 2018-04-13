@@ -1,4 +1,5 @@
 # vimtips
 
-<img href=vim-cheatsheet.png></img>
-(Vim cheatsheet)
+## Vim Cheatsheet:
+<img src="vim-cheatsheet.png" alt="vim-cheatsheet.png"></img>
+
